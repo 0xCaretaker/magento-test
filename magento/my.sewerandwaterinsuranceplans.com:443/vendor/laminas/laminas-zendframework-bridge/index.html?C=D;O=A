@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /vendor/laminas/laminas-zendframework-bridge</title>
+ </head>
+ <body>
+<h1>Index of /vendor/laminas/laminas-zendframework-bridge</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=D">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/vendor/laminas/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="COPYRIGHT.md">COPYRIGHT.md</a></td><td align="right">2023-11-24 13:56  </td><td align="right"> 91 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="LICENSE.md">LICENSE.md</a></td><td align="right">2023-11-24 13:56  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="README.md">README.md</a></td><td align="right">2023-11-24 13:56  </td><td align="right">5.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="composer.json">composer.json</a></td><td align="right">2023-11-24 13:56  </td><td align="right">1.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="composer.lock">composer.lock</a></td><td align="right">2023-11-24 13:56  </td><td align="right">133K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="config/">config/</a></td><td align="right">2023-11-24 13:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="psalm-baseline.xml">psalm-baseline.xml</a></td><td align="right">2023-11-24 13:56  </td><td align="right">7.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="psalm.xml.dist">psalm.xml.dist</a></td><td align="right">2023-11-24 13:56  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="renovate.json">renovate.json</a></td><td align="right">2023-11-24 13:56  </td><td align="right">133 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="src/">src/</a></td><td align="right">2023-11-24 13:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.58 (Ubuntu) Server at my.sewerandwaterinsuranceplans.com Port 443</address>
+</body></html>

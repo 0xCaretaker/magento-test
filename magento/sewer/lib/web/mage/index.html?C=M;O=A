@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /lib/web/mage</title>
+ </head>
+ <body>
+<h1>Index of /lib/web/mage</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=D">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/lib/web/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ie-class-fixer.js">ie-class-fixer.js</a></td><td align="right">2023-04-04 15:46  </td><td align="right">271 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="dropdown.js">dropdown.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">7.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="dropdown_old.js">dropdown_old.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">2.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="fieldset-controls.js">fieldset-controls.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">3.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="item-table.js">item-table.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">4.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="loader.js">loader.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">6.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="menu.js">menu.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right"> 29K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="multiselect.html">multiselect.html</a></td><td align="right">2023-04-04 18:21  </td><td align="right">429 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="polyfill.js">polyfill.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">5.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="template.js">template.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">1.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="translate-inline.css">translate-inline.css</a></td><td align="right">2023-04-04 18:21  </td><td align="right">1.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="trim-input.js">trim-input.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">1.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="utils/">utils/</a></td><td align="right">2023-04-04 18:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="accordion.js">accordion.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">3.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="adminhtml/">adminhtml/</a></td><td align="right">2023-04-04 18:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="calendar.js">calendar.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="collapsible.js">collapsible.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right"> 17K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="cookies.js">cookies.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">4.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="dropdowns.js">dropdowns.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">4.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mage.js">mage.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">2.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="multiselect.js">multiselect.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="popup-window.js">popup-window.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">3.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="redirect-url.js">redirect-url.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">1.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="smart-keyboard-handler.js">smart-keyboard-handler.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">2.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="sticky.js">sticky.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">4.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="tooltip.js">tooltip.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">336 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="translate-inline.js">translate-inline.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">5.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="translate.js">translate.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">1.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="validation/">validation/</a></td><td align="right">2023-04-04 18:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="backend/">backend/</a></td><td align="right">2023-04-04 18:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="calendar.css">calendar.css</a></td><td align="right">2023-04-04 18:21  </td><td align="right">6.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="dataPost.js">dataPost.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">2.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="deletable-item.js">deletable-item.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">2.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="gallery/">gallery/</a></td><td align="right">2023-04-04 18:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="loader_old.js">loader_old.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">6.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="msie/">msie/</a></td><td align="right">2023-04-04 18:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="requirejs/">requirejs/</a></td><td align="right">2023-04-04 18:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="storage.js">storage.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">3.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="toggle.js">toggle.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">5.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="touch-slider.js">touch-slider.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">3.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="url.js">url.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">580 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="apply/">apply/</a></td><td align="right">2023-04-04 18:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="bootstrap.js">bootstrap.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">460 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="captcha.js">captcha.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="common.js">common.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">1.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="decorate.js">decorate.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">4.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="edit-trigger.js">edit-trigger.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">5.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="tabs.js">tabs.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right"> 10K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="terms.js">terms.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right">7.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="validation.js">validation.js</a></td><td align="right">2023-04-04 18:21  </td><td align="right"> 73K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.58 (Ubuntu) Server at my.sewerandwaterinsuranceplans.com Port 443</address>
+</body></html>

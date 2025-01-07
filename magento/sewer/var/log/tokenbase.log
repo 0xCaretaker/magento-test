@@ -1,0 +1,99 @@
+[2023-05-01T13:00:02.961986+00:00] tokenbaseLogger.INFO: authnetcim []: Starting AccountUpdater sync  
+[2023-05-01T13:00:03.182845+00:00] tokenbaseLogger.INFO: authnetcim []: API error: E00006: The API user name is invalid or not present.
+REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<getAUJobDetailsRequest xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd">
+  <merchantAuthentication>
+    <name></name>
+    <transactionKey></transactionKey>
+  </merchantAuthentication>
+  <month>2023-04</month>
+  <paging>
+    <limit>1000</limit>
+    <offset>1</offset>
+  </paging>
+</getAUJobDetailsRequest>
+
+RESPONSE: ﻿<?xml version="1.0" encoding="utf-8"?><getAUJobDetailsResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd"><messages><resultCode>Error</resultCode><message><code>E00006</code><text>The API user name is invalid or not present.</text></message></messages><totalNumInResultSet>0</totalNumInResultSet></getAUJobDetailsResponse>
+  
+[2023-05-01T13:00:03.184231+00:00] tokenbaseLogger.INFO: authnetcim []: CURL Connection error: Authorize.Net CIM Gateway: The API user name is invalid or not present. (E00006)
+REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<getAUJobDetailsRequest xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd">
+  <merchantAuthentication>
+    <name></name>
+    <transactionKey></transactionKey>
+  </merchantAuthentication>
+  <month>2023-04</month>
+  <paging>
+    <limit>1000</limit>
+    <offset>1</offset>
+  </paging>
+</getAUJobDetailsRequest>
+  
+[2023-06-01T13:00:02.440389+00:00] tokenbaseLogger.INFO: authnetcim []: Starting AccountUpdater sync  
+[2023-06-01T13:00:02.519217+00:00] tokenbaseLogger.INFO: authnetcim []: API error: E00006: The API user name is invalid or not present.
+REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<getAUJobDetailsRequest xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd">
+  <merchantAuthentication>
+    <name></name>
+    <transactionKey></transactionKey>
+  </merchantAuthentication>
+  <month>2023-05</month>
+  <paging>
+    <limit>1000</limit>
+    <offset>1</offset>
+  </paging>
+</getAUJobDetailsRequest>
+
+RESPONSE: ﻿<?xml version="1.0" encoding="utf-8"?><getAUJobDetailsResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd"><messages><resultCode>Error</resultCode><message><code>E00006</code><text>The API user name is invalid or not present.</text></message></messages><totalNumInResultSet>0</totalNumInResultSet></getAUJobDetailsResponse>
+  
+[2023-06-01T13:00:02.521078+00:00] tokenbaseLogger.INFO: authnetcim []: CURL Connection error: Authorize.Net CIM Gateway: The API user name is invalid or not present. (E00006)
+REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<getAUJobDetailsRequest xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd">
+  <merchantAuthentication>
+    <name></name>
+    <transactionKey></transactionKey>
+  </merchantAuthentication>
+  <month>2023-05</month>
+  <paging>
+    <limit>1000</limit>
+    <offset>1</offset>
+  </paging>
+</getAUJobDetailsRequest>
+  
+[2023-06-06T11:22:31.994144+00:00] tokenbaseLogger.INFO: authnetcim [127.0.0.1]: Purged 0 cached authnetcim_profile_id values on API Login ID change.  
+[2023-09-27T14:35:38.341538+00:00] tokenbaseLogger.INFO: authnetcim [127.0.0.1]: Purged 0 cached authnetcim_profile_id values on API Login ID change.  
+[2023-12-08T15:41:32.342067+00:00] tokenbaseLogger.INFO: authnetcim [127.0.0.1]: Purged 0 cached authnetcim_profile_id values on API Login ID change.  
+[2024-12-30T20:33:48.872958+00:00] tokenbaseLogger.INFO: authnetcim [127.0.0.1]: Purged 0 cached authnetcim_profile_id values on API Login ID change.  
+[2025-01-01T14:00:02.488814+00:00] tokenbaseLogger.INFO: authnetcim []: Starting AccountUpdater sync  
+[2025-01-01T14:00:02.952260+00:00] tokenbaseLogger.INFO: authnetcim []: API error: E00006: The API user name is invalid or not present.
+REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<getAUJobDetailsRequest xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd">
+  <merchantAuthentication>
+    <name></name>
+    <transactionKey></transactionKey>
+  </merchantAuthentication>
+  <month>2024-12</month>
+  <paging>
+    <limit>1000</limit>
+    <offset>1</offset>
+  </paging>
+</getAUJobDetailsRequest>
+
+RESPONSE: ﻿<?xml version="1.0" encoding="utf-8"?><getAUJobDetailsResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd"><messages><resultCode>Error</resultCode><message><code>E00006</code><text>The API user name is invalid or not present.</text></message></messages><totalNumInResultSet>0</totalNumInResultSet></getAUJobDetailsResponse>
+  
+[2025-01-01T14:00:02.952804+00:00] tokenbaseLogger.INFO: authnetcim []: CURL Connection error: Authorize.Net CIM Gateway: The API user name is invalid or not present. (E00006)
+REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<getAUJobDetailsRequest xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd">
+  <merchantAuthentication>
+    <name></name>
+    <transactionKey></transactionKey>
+  </merchantAuthentication>
+  <month>2024-12</month>
+  <paging>
+    <limit>1000</limit>
+    <offset>1</offset>
+  </paging>
+</getAUJobDetailsRequest>
+  
+[2025-01-02T10:44:22.070799+00:00] tokenbaseLogger.INFO: authnetcim [127.0.0.1]: Purged 0 cached authnetcim_profile_id values on API Login ID change.  
+[2025-01-02T11:52:25.195456+00:00] tokenbaseLogger.INFO: authnetcim [127.0.0.1]: Purged 0 cached authnetcim_profile_id values on API Login ID change.  

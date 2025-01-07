@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /var/log</title>
+ </head>
+ <body>
+<h1>Index of /var/log</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/var/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="cron.log">cron.log</a></td><td align="right">2025-01-07 09:15  </td><td align="right">960K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..13log.gz">exception..13log.gz</a></td><td align="right">2024-12-25 23:55  </td><td align="right">336K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="cron..4log.gz">cron..4log.gz</a></td><td align="right">2025-01-03 23:55  </td><td align="right">239K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="cron..2log.gz">cron..2log.gz</a></td><td align="right">2025-01-05 23:55  </td><td align="right">239K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="cron..1log.gz">cron..1log.gz</a></td><td align="right">2025-01-06 23:55  </td><td align="right">238K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="cron..5log.gz">cron..5log.gz</a></td><td align="right">2025-01-02 23:55  </td><td align="right">238K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="cron..3log.gz">cron..3log.gz</a></td><td align="right">2025-01-04 23:55  </td><td align="right">237K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..12log.gz">exception..12log.gz</a></td><td align="right">2024-12-26 11:48  </td><td align="right">142K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..5log.gz">system..5log.gz</a></td><td align="right">2025-01-02 12:18  </td><td align="right">100K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..12log.gz">system..12log.gz</a></td><td align="right">2024-12-26 23:00  </td><td align="right"> 67K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..12log.gz">adminactivity..12log.gz</a></td><td align="right">2024-12-26 11:49  </td><td align="right"> 64K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..5log.gz">adminactivity..5log.gz</a></td><td align="right">2025-01-02 12:12  </td><td align="right"> 60K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..13log.gz">system..13log.gz</a></td><td align="right">2024-12-25 23:55  </td><td align="right"> 50K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..3log.gz">exception..3log.gz</a></td><td align="right">2025-01-04 19:45  </td><td align="right"> 28K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..8log.gz">system..8log.gz</a></td><td align="right">2024-12-30 20:33  </td><td align="right">7.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="tokenbase.log">tokenbase.log</a></td><td align="right">2025-01-02 11:52  </td><td align="right">5.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..8log.gz">adminactivity..8log.gz</a></td><td align="right">2024-12-30 20:33  </td><td align="right">4.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..1log.gz">system..1log.gz</a></td><td align="right">2025-01-06 05:42  </td><td align="right">2.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..1log.gz">exception..1log.gz</a></td><td align="right">2025-01-06 21:17  </td><td align="right">1.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..3log.gz">system..3log.gz</a></td><td align="right">2025-01-04 11:19  </td><td align="right">756 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..7log.gz">adminactivity..7log.gz</a></td><td align="right">2024-12-31 04:12  </td><td align="right">498 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..10log.gz">system..10log.gz</a></td><td align="right">2024-12-28 23:00  </td><td align="right">487 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..11log.gz">system..11log.gz</a></td><td align="right">2024-12-27 23:00  </td><td align="right">383 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..9log.gz">system..9log.gz</a></td><td align="right">2024-12-29 08:00  </td><td align="right">300 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="magento.cron..5log.gz">magento.cron..5log.gz</a></td><td align="right">2025-01-02 12:15  </td><td align="right">172 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..14log.gz">system..14log.gz</a></td><td align="right">2024-12-24 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..7log.gz">system..7log.gz</a></td><td align="right">2024-12-31 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..6log.gz">system..6log.gz</a></td><td align="right">2025-01-01 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..4log.gz">system..4log.gz</a></td><td align="right">2025-01-03 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="system..2log.gz">system..2log.gz</a></td><td align="right">2025-01-05 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..14log.gz">sessioncustomer..14log.gz</a></td><td align="right">2024-12-24 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..13log.gz">sessioncustomer..13log.gz</a></td><td align="right">2024-12-25 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..12log.gz">sessioncustomer..12log.gz</a></td><td align="right">2024-12-26 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..11log.gz">sessioncustomer..11log.gz</a></td><td align="right">2024-12-27 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..10log.gz">sessioncustomer..10log.gz</a></td><td align="right">2024-12-28 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..9log.gz">sessioncustomer..9log.gz</a></td><td align="right">2024-12-29 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..8log.gz">sessioncustomer..8log.gz</a></td><td align="right">2024-12-30 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..7log.gz">sessioncustomer..7log.gz</a></td><td align="right">2024-12-31 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..6log.gz">sessioncustomer..6log.gz</a></td><td align="right">2025-01-01 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..5log.gz">sessioncustomer..5log.gz</a></td><td align="right">2025-01-02 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..4log.gz">sessioncustomer..4log.gz</a></td><td align="right">2025-01-03 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..3log.gz">sessioncustomer..3log.gz</a></td><td align="right">2025-01-04 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..2log.gz">sessioncustomer..2log.gz</a></td><td align="right">2025-01-05 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="sessioncustomer..1log.gz">sessioncustomer..1log.gz</a></td><td align="right">2025-01-06 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="magento.cron..4log.gz">magento.cron..4log.gz</a></td><td align="right">2025-01-03 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="magento.cron..3log.gz">magento.cron..3log.gz</a></td><td align="right">2025-01-04 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="magento.cron..2log.gz">magento.cron..2log.gz</a></td><td align="right">2025-01-05 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="magento.cron..1log.gz">magento.cron..1log.gz</a></td><td align="right">2025-01-06 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..14log.gz">exception..14log.gz</a></td><td align="right">2024-12-24 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..11log.gz">exception..11log.gz</a></td><td align="right">2024-12-27 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..10log.gz">exception..10log.gz</a></td><td align="right">2024-12-28 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..9log.gz">exception..9log.gz</a></td><td align="right">2024-12-29 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..8log.gz">exception..8log.gz</a></td><td align="right">2024-12-30 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..7log.gz">exception..7log.gz</a></td><td align="right">2024-12-31 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..6log.gz">exception..6log.gz</a></td><td align="right">2025-01-01 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..5log.gz">exception..5log.gz</a></td><td align="right">2025-01-02 07:14  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..4log.gz">exception..4log.gz</a></td><td align="right">2025-01-03 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="exception..2log.gz">exception..2log.gz</a></td><td align="right">2025-01-05 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="debug..5log.gz">debug..5log.gz</a></td><td align="right">2025-01-02 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="debug..4log.gz">debug..4log.gz</a></td><td align="right">2025-01-03 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="debug..3log.gz">debug..3log.gz</a></td><td align="right">2025-01-04 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="debug..2log.gz">debug..2log.gz</a></td><td align="right">2025-01-05 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="debug..1log.gz">debug..1log.gz</a></td><td align="right">2025-01-06 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..14log.gz">adminactivity..14log.gz</a></td><td align="right">2024-12-24 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..13log.gz">adminactivity..13log.gz</a></td><td align="right">2024-12-25 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..11log.gz">adminactivity..11log.gz</a></td><td align="right">2024-12-27 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..10log.gz">adminactivity..10log.gz</a></td><td align="right">2024-12-28 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..9log.gz">adminactivity..9log.gz</a></td><td align="right">2024-12-29 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..6log.gz">adminactivity..6log.gz</a></td><td align="right">2025-01-01 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..4log.gz">adminactivity..4log.gz</a></td><td align="right">2025-01-03 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..3log.gz">adminactivity..3log.gz</a></td><td align="right">2025-01-04 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..2log.gz">adminactivity..2log.gz</a></td><td align="right">2025-01-05 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="adminactivity..1log.gz">adminactivity..1log.gz</a></td><td align="right">2025-01-06 00:00  </td><td align="right"> 20 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="system.log">system.log</a></td><td align="right">2025-01-07 00:00  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="sessioncustomer.log">sessioncustomer.log</a></td><td align="right">2025-01-07 00:00  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="magento.cron.log">magento.cron.log</a></td><td align="right">2025-01-07 00:00  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="exception.log">exception.log</a></td><td align="right">2025-01-07 00:00  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="debug.log">debug.log</a></td><td align="right">2025-01-07 00:00  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="adminactivity.log">adminactivity.log</a></td><td align="right">2025-01-07 00:00  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.58 (Ubuntu) Server at my.sewerandwaterinsuranceplans.com Port 443</address>
+</body></html>
